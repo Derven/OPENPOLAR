@@ -1,0 +1,571 @@
+
+
+Starting up. 00:05.15
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[00:05:15]ADMIN: Loading Banlistjob
+[00:05:15]ADMIN: Loading jobban_rank
+[00:05:15]ADMIN: jobban_keylist was empty
+[00:05:15]ADMIN: Updating jobbanfile!
+[00:05:15]ADMIN: Loading Banlist
+[00:08:32]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[00:08:53]ADMIN: S_Sting has started the game.
+[00:08:56]DEBUG: Next event in 18.228 minutes.
+[00:09:08]SAY: rabbit/ : HSSSSS
+[00:09:10]SAY: rabbit/ : Pew!
+[00:09:34]SAY: rabbit/ : Pew!
+[00:09:44]SAY: wolf/ : Bark!
+[00:09:49]ACCESS: Logout: S_Sting/(S_Sting)
+
+
+Starting up. 00:26.03
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[00:26:03]ADMIN: Loading Banlistjob
+[00:26:03]ADMIN: Loading jobban_rank
+[00:26:03]ADMIN: jobban_keylist was empty
+[00:26:03]ADMIN: Updating jobbanfile!
+[00:26:03]ADMIN: Loading Banlist
+[00:26:08]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[00:26:31]ADMIN: S_Sting has started the game.
+[00:26:34]DEBUG: Next event in 27.414 minutes.
+[00:26:34]ACCESS: Logout: *no key*/(S_Sting)
+[00:26:34]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[00:26:48]SAY: wolf/ : Bark!
+[00:27:42]ACCESS: Logout: S_Sting/(Boston Duster)
+
+
+Starting up. 00:37.25
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[00:37:25]ADMIN: Loading Banlistjob
+[00:37:25]ADMIN: Loading jobban_rank
+[00:37:25]ADMIN: jobban_keylist was empty
+[00:37:25]ADMIN: Updating jobbanfile!
+[00:37:25]ADMIN: Loading Banlist
+[00:37:32]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[00:38:49]ADMIN: S_Sting has started the game.
+[00:38:52]DEBUG: Next event in 21.398 minutes.
+[00:38:53]ACCESS: Logout: *no key*/(S_Sting)
+[00:38:53]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[00:38:54]SAY: Betsy/ : Moo
+[00:39:02]SAY: wolf/ : Rawr!
+[00:39:04]SAY: wolf/ : Rawr!
+[00:39:12]SAY: wolf/ : Bark!
+[00:39:22]SAY: wolf/ : RAWR!
+[00:39:42]SAY: rabbit/ : Pew!
+[00:39:52]SAY: ferconga/ : Growl!
+[00:40:05]SAY: rabbit/ : HSSSSS
+[00:40:31]SAY: rabbit/ : Pew!
+[00:40:45]SAY: wolf/ : Woooooo!
+[00:40:51]SAY: wolf/ : Bark!
+[00:40:59]SAY: wolf/ : RAWR!
+[00:41:27]SAY: mouse/ : Squeek!
+[00:41:51]SAY: rabbit/ : HSSSSS
+[00:42:18]SAY: rabbit/ : Pew!
+[00:42:20]SAY: rabbit/ : HSSSSS
+[00:42:22]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[00:42:54]SAY: wolf/ : Woooooo!
+[00:43:14]SAY: Runtime/ : Purr!
+[00:43:28]SAY: wolf/ : Rawr!
+[00:44:00]SAY: wolf/ : Bark!
+[00:44:28]ACCESS: Logout: S_Sting/(Boston Duster)
+
+
+Starting up. 01:03.53
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[01:03:53]ADMIN: Loading Banlistjob
+[01:03:53]ADMIN: Loading jobban_rank
+[01:03:53]ADMIN: jobban_keylist was empty
+[01:03:53]ADMIN: Updating jobbanfile!
+[01:03:53]ADMIN: Loading Banlist
+[01:05:00]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[01:05:46]ADMIN: S_Sting has started the game.
+[01:05:49]DEBUG: Next event in 29.04 minutes.
+[01:05:57]SAY: ferconga/ : GRR!
+[01:05:57]ACCESS: Logout: *no key*/(S_Sting)
+[01:05:57]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[01:07:00]SAY: wolf/ : RAWR!
+[01:07:13]ACCESS: Logout: S_Sting/(Boston Duster)
+
+
+Starting up. 01:15.37
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[01:15:37]ADMIN: Loading Banlistjob
+[01:15:37]ADMIN: Loading jobban_rank
+[01:15:37]ADMIN: jobban_keylist was empty
+[01:15:37]ADMIN: Updating jobbanfile!
+[01:15:37]ADMIN: Loading Banlist
+[01:16:14]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[01:16:59]ADMIN: S_Sting has started the game.
+[01:17:02]DEBUG: Next event in 28.162 minutes.
+[01:17:03]ACCESS: Logout: *no key*/(S_Sting)
+[01:17:03]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[01:17:06]SAY: wolf/ : Rawr!
+[01:17:12]SAY: wolf/ : Woooooo!
+[01:17:34]ACCESS: Logout: S_Sting/(Boston Duster)
+
+
+Starting up. 01:32.09
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[01:32:09]ADMIN: Loading Banlistjob
+[01:32:09]ADMIN: Loading jobban_rank
+[01:32:09]ADMIN: jobban_keylist was empty
+[01:32:09]ADMIN: Updating jobbanfile!
+[01:32:09]ADMIN: Loading Banlist
+[01:34:47]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[01:34:59]ADMIN: S_Sting has started the game.
+[01:35:06]DEBUG: Next event in 20.788 minutes.
+[01:35:11]ACCESS: Logout: *no key*/(S_Sting)
+[01:35:11]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[01:35:26]SAY: wolf/ : Rawr!
+[01:35:32]SAY: wolf/ : RAWR!
+[01:35:56]ACCESS: Logout: S_Sting/(Boston Duster)
+
+
+Starting up. 01:49.45
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[01:49:45]ADMIN: Loading Banlistjob
+[01:49:45]ADMIN: Loading jobban_rank
+[01:49:45]ADMIN: jobban_keylist was empty
+[01:49:45]ADMIN: Updating jobbanfile!
+[01:49:45]ADMIN: Loading Banlist
+[01:49:51]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[01:50:01]ADMIN: S_Sting has started the game.
+[01:50:07]SAY: wolf/ : RAWR!
+[01:50:10]DEBUG: Next event in 24.104 minutes.
+[01:50:32]SAY: ferconga/ : Rawr!
+[01:50:38]SAY: wolf/ : Bark!
+[01:50:43]ACCESS: Logout: *no key*/(S_Sting)
+[01:50:43]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[01:50:54]SAY: rabbit/ : Pew!
+[01:50:58]SAY: Betsy/ : Moo?
+[01:51:03]ACCESS: Logout: *no key*/(Boston Duster)
+[01:51:03]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[01:51:12]ADMIN: S_Sting/(Boston Duster) has used rudimentary transformation on S_Sting/(Boston Duster). Transforming to human; deletemob=1
+[01:51:12]ACCESS: Logout: *no key*/(Boston Duster)
+[01:51:12]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[01:51:15]ACCESS: Logout: *no key*/(Boston Duster)
+[01:51:15]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[01:51:42]SAY: Betsy/ : Moo
+[01:51:48]ACCESS: Logout: S_Sting/(Boston Duster)
+
+
+Starting up. 10:52.03
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[10:52:03]ADMIN: Loading Banlistjob
+[10:52:03]ADMIN: Loading jobban_rank
+[10:52:03]ADMIN: jobban_keylist was empty
+[10:52:03]ADMIN: Updating jobbanfile!
+[10:52:03]ADMIN: Loading Banlist
+[10:52:41]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[10:52:53]ADMIN: S_Sting has started the game.
+[10:52:57]DEBUG: Next event in 28.004 minutes.
+[10:52:59]ACCESS: Logout: *no key*/(S_Sting)
+[10:52:59]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[10:53:05]SAY: wolf/ : Rawr!
+[10:53:19]ACCESS: Logout: *no key*/(Boston Duster)
+[10:53:19]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[10:53:35]SAY: wolf/ : Rawr!
+[10:54:34]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[10:55:28]SAY: wolf/ : RAWR!
+[10:56:00]SAY: rabbit/ : Pew!
+[10:56:04]SAY: wolf/ : Woooooo!
+[10:56:12]SAY: Betsy/ : MOOOOOO
+[10:56:24]SAY: rabbit/ : Pew!
+[10:56:28]SAY: wolf/ : Rawr!
+[10:56:30]SAY: mouse/ : SQUEEK!
+[10:58:04]SAY: wolf/ : Rawr!
+[10:58:06]ADMIN: S_Sting/(Boston Duster) deleted Boston Duster at (88,142,1)
+[10:58:06]ACCESS: Logout: *no key*/(Boston Duster)
+[10:58:06]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[10:58:14]ADMIN: S_Sting/(Boston Duster) deleted Boston Duster at (87,147,1)
+[10:58:14]ACCESS: Logout: *no key*/(Boston Duster)
+[10:58:14]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[10:58:26]SAY: rabbit/ : Pew!
+[10:58:28]ACCESS: Logout: S_Sting/(Boston Duster)
+
+
+Starting up. 11:06.49
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[11:06:50]ADMIN: Loading Banlistjob
+[11:06:50]ADMIN: Loading jobban_rank
+[11:06:50]ADMIN: jobban_keylist was empty
+[11:06:50]ADMIN: Updating jobbanfile!
+[11:06:50]ADMIN: Loading Banlist
+[11:06:57]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[11:09:04]SAY: wolf/ : Woooooo!
+[11:09:04]SAY: wolf/ : Rawr!
+[11:09:05]DEBUG: Next event in 18.824 minutes.
+[11:09:16]SAY: wolf/ : Rawr!
+[11:09:26]SAY: wolf/ : Rawr!
+[11:09:30]SAY: rabbit/ : HSSSSS
+[11:09:48]SAY: wolf/ : Rawr!
+[11:09:54]SAY: wolf/ : Bark!
+[11:10:39]ACCESS: Logout: *no key*/(S_Sting)
+[11:10:39]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[11:10:43]SAY: wolf/ : Rawr!
+[11:10:57]SAY: rabbit/ : HSSSSS
+[11:11:21]SAY: wolf/ : Bark!
+[11:11:47]SAY: wolf/ : Bark!
+[11:12:03]SAY: Runtime/ : Meow!
+[11:12:17]SAY: wolf/ : Bark!
+[11:12:33]SAY: wolf/ : Rawr!
+[11:12:37]SAY: wolf/ : Bark!
+[11:12:53]SAY: Commander Clucky/ : Bwaak bwak.
+[11:13:01]SAY: wolf/ : Rawr!
+[11:14:10]SAY: rabbit/ : HSSSSS
+[11:14:22]SAY: wolf/ : Bark!
+[11:14:32]SAY: ferconga/ : Rawr!
+[11:14:36]SAY: rabbit/ : Pew!
+[11:14:38]SAY: rabbit/ : HSSSSS
+[11:14:40]SAY: rabbit/ : Pew!
+[11:16:50]SAY: wolf/ : Bark!
+[11:16:56]SAY: mouse/ : Squeek!
+[11:17:03]ACCESS: Logout: S_Sting/(Boston Duster)
+
+
+Starting up. 18:31.22
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[18:31:23]ADMIN: Loading Banlistjob
+[18:31:23]ADMIN: Loading jobban_rank
+[18:31:23]ADMIN: jobban_keylist was empty
+[18:31:23]ADMIN: Updating jobbanfile!
+[18:31:23]ADMIN: Loading Banlist
+[18:33:06]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[18:33:31]ADMIN: S_Sting has started the game.
+[18:33:34]DEBUG: Next event in 29.876 minutes.
+[18:33:49]ACCESS: Logout: *no key*/(S_Sting)
+[18:33:49]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[18:34:04]SAY: rabbit/ : HSSSSS
+[18:34:10]SAY: rabbit/ : Pew!
+[18:34:30]SAY: wolf/ : Rawr!
+[18:34:32]SAY: Betsy/ : MOOOOOO
+[18:34:52]SAY: rabbit/ : Pew!
+[18:34:56]SAY: rabbit/ : Pew!
+[18:35:05]SAY: rabbit/ : Pew!
+[18:35:22]SAY: wolf/ : RAWR!
+[18:35:50]SAY: wolf/ : Rawr!
+[18:36:05]SAY: wolf/ : Rawr!
+[18:37:39]SAY: wolf/ : Rawr!
+[18:37:47]SAY: wolf/ : Rawr!
+[18:38:00]SAY: wolf/ : Bark!
+[18:38:06]SAY: rabbit/ : Pew!
+[18:38:20]SAY: wolf/ : Woooooo!
+[18:38:50]SAY: wolf/ : RAWR!
+[18:40:03]SAY: wolf/ : RAWR!
+[18:40:03]SAY: wolf/ : Bark!
+[18:41:03]SAY: wolf/ : Bark!
+[18:41:13]SAY: Ian/ : Woof!
+[18:41:15]SAY: wolf/ : Woooooo!
+[18:41:29]SAY: wolf/ : Woooooo!
+[18:41:55]SAY: wolf/ : Woooooo!
+[18:42:06]SAY: wolf/ : Rawr!
+[18:42:09]SAY: wolf/ : Woooooo!
+[18:42:16]SAY: rabbit/ : Pew!
+[18:42:26]SAY: wolf/ : Woooooo!
+[18:43:26]SAY: rabbit/ : HSSSSS
+[18:44:39]SAY: ferconga/ : Rawr!
+[18:44:47]SAY: rabbit/ : HSSSSS
+[18:45:13]SAY: wolf/ : Bark!
+[18:45:13]SAY: wolf/ : Rawr!
+[18:45:25]SAY: wolf/ : RAWR!
+[18:45:27]SAY: wolf/ : Woooooo!
+[18:45:27]SAY: wolf/ : Woooooo!
+[18:45:47]SAY: wolf/ : Bark!
+[18:45:57]SAY: rabbit/ : Pew!
+[18:46:01]SAY: wolf/ : RAWR!
+[18:46:28]SAY: ferconga/ : Growl!
+[18:47:06]SAY: wolf/ : Bark!
+[18:47:16]SAY: Ian/ : YAP
+[18:47:32]SAY: rabbit/ : HSSSSS
+[18:47:40]SAY: wolf/ : RAWR!
+[18:48:00]SAY: rabbit/ : HSSSSS
+[18:48:06]SAY: rabbit/ : HSSSSS
+[18:48:21]SAY: wolf/ : Rawr!
+[18:49:19]SAY: wolf/ : RAWR!
+[18:49:51]SAY: wolf/ : Woooooo!
+[18:49:53]SAY: Commander Clucky/ : Bwaak bwak.
+[18:50:32]SAY: wolf/ : RAWR!
+[18:50:36]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[18:50:48]SAY: wolf/ : Bark!
+[18:51:02]SAY: wolf/ : Woooooo!
+[18:51:16]SAY: wolf/ : Bark!
+[18:51:32]EMOTE: Boston Duster/S_Sting : <B>Boston Duster</B> is having trouble keeping their eyes open.
+[18:51:34]ACCESS: Logout: S_Sting/(Boston Duster)
+
+
+Starting up. 19:13.26
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[19:13:26]ADMIN: Loading Banlistjob
+[19:13:26]ADMIN: Loading jobban_rank
+[19:13:26]ADMIN: jobban_keylist was empty
+[19:13:26]ADMIN: Updating jobbanfile!
+[19:13:26]ADMIN: Loading Banlist
+[19:20:09]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[19:20:26]ADMIN: S_Sting has started the game.
+[19:20:30]DEBUG: Next event in 20.882 minutes.
+[19:20:44]SAY: wolf/ : Rawr!
+[19:20:45]ACCESS: Logout: *no key*/(S_Sting)
+[19:20:45]ACCESS: Login: S_Sting/(Boston Duster) from 127.0.0.1-1323850029 || BYOND v510
+[19:21:28]SAY: wolf/ : Rawr!
+[19:21:35]SAY: rabbit/ : Pew!
+[19:21:47]SAY: wolf/ : Bark!
+[19:21:55]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[19:21:57]SAY: wolf/ : Rawr!
+[19:22:23]SAY: Runtime/ : Esp!
+[19:22:27]SAY: wolf/ : Woooooo!
+[19:22:43]SAY: rabbit/ : Pew!
+[19:23:09]ADMIN: S_Sting/(Boston Duster) modified Boston Duster's nutrition to 220.602
+[19:23:17]SAY: wolf/ : Bark!
+[19:23:49]ACCESS: Logout: S_Sting/(Boston Duster)

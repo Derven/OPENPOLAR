@@ -1,0 +1,147 @@
+
+
+Starting up. 01:53.56
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[01:53:56]ADMIN: Loading Banlistjob
+[01:53:56]ADMIN: Loading jobban_rank
+[01:53:56]ADMIN: jobban_keylist was empty
+[01:53:56]ADMIN: Updating jobbanfile!
+[01:53:56]ADMIN: Loading Banlist
+[02:02:01]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-3719049919 || BYOND v509
+[02:02:25]ADMIN: S_Sting has started the game.
+[02:02:46]DEBUG: Next event in 22.792 minutes.
+[02:02:50]SAY: wolf/ : Rawr!
+[02:02:53]ACCESS: Logout: *no key*/(S_Sting)
+[02:02:53]ACCESS: Login: S_Sting/(Bartholomew Marshall) from 127.0.0.1-3719049919 || BYOND v509
+[02:03:13]ACCESS: Logout: S_Sting/(Bartholomew Marshall)
+[02:03:15]ACCESS: Login: S_Sting/(Bartholomew Marshall) from 127.0.0.1-3719049919 || BYOND v509
+[02:03:16]SAY: Betsy/ : MOOOOOO
+[02:03:20]SAY: wolf/ : Woooooo!
+[02:03:36]SAY: wolf/ : Rawr!
+[02:03:53]SAY: rabbit/ : HSSSSS
+[02:04:13]SAY: rabbit/ : Pew!
+[02:04:39]SAY: wolf/ : Rawr!
+[02:05:10]ADMIN: S_Sting/(Bartholomew Marshall) spawned /obj/item/weapon/wrench at (116,175,1)
+[02:05:44]SAY: wolf/ : Woooooo!
+[02:05:46]SAY: wolf/ : Rawr!
+[02:05:46]SAY: wolf/ : RAWR!
+[02:06:12]SAY: wolf/ : Bark!
+[02:06:24]SAY: wolf/ : RAWR!
+[02:06:44]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[02:06:44]SAY: wolf/ : Bark!
+[02:07:18]SAY: rabbit/ : Pew!
+[02:07:30]SAY: rabbit/ : HSSSSS
+[02:07:38]SAY: wolf/ : Woooooo!
+[02:07:45]ACCESS: Logout: S_Sting/(Bartholomew Marshall)
+
+
+Starting up. 22:38.51
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[22:38:51]ADMIN: Loading Banlistjob
+[22:38:51]ADMIN: Loading jobban_rank
+[22:38:51]ADMIN: jobban_keylist was empty
+[22:38:51]ADMIN: Updating jobbanfile!
+[22:38:52]ADMIN: Loading Banlist
+
+
+Starting up. 22:48.03
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[22:48:03]ADMIN: Loading Banlistjob
+[22:48:03]ADMIN: Loading jobban_rank
+[22:48:03]ADMIN: jobban_keylist was empty
+[22:48:03]ADMIN: Updating jobbanfile!
+[22:48:03]ADMIN: Loading Banlist
+[22:52:02]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-3719049919 || BYOND v509
+[22:52:32]ADMIN: S_Sting has started the game.
+[22:52:37]DEBUG: Next event in 18.518 minutes.
+[22:52:37]ACCESS: Logout: *no key*/(S_Sting)
+[22:52:37]ACCESS: Login: S_Sting/(Juan Zadovsky) from 127.0.0.1-3719049919 || BYOND v509
+[22:52:56]SAY: wolf/ : Woooooo!
+[22:53:03]SAY: wolf/ : Woooooo!
+[22:53:13]SAY: rabbit/ : Pew!
+[22:53:35]SAY: wolf/ : Woooooo!
+[22:54:41]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[22:54:56]SAY: Runtime/ : Meow!
+[22:55:07]SAY: wolf/ : Woooooo!
+[22:55:09]SAY: wolf/ : RAWR!
+[22:55:22]SAY: ferconga/ : GRR!
+[22:55:26]SAY: ferconga/ : RAWR!
+[22:55:28]SAY: wolf/ : RAWR!
+[22:55:32]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[22:55:36]ACCESS: Logout: S_Sting/(Juan Zadovsky)
+[22:55:46]ACCESS: Login: S_Sting/(Juan Zadovsky) from 127.0.0.1-3719049919 || BYOND v509
+[22:55:50]SAY: Betsy/ : Moo?
+[22:55:51]ACCESS: Logout: S_Sting/(Juan Zadovsky)
+[22:55:58]ACCESS: Login: S_Sting/(Juan Zadovsky) from 127.0.0.1-3719049919 || BYOND v509
+[22:56:23]SAY: wolf/ : Bark!
+[22:56:57]SAY: wolf/ : Rawr!
+[22:57:15]ACCESS: Logout: S_Sting/(Juan Zadovsky)

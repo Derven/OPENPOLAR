@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1465907303
+DIR: code code\defines\obj code\game code\game\events code\game\events\Events code\game\gamemodes code\game\gamemodes\cult code\game\gamemodes\events code\game\gamemodes\wizard code\game\jobs\job code\game\machinery code\game\machinery\computer code\game\objects\effects code\game\objects\structures code\modules code\modules\mob code\modules\mob\dead\observer code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\alien code\modules\mob\living\carbon\alien\humanoid code\modules\mob\living\carbon\human code\modules\mob\living\simple_animal code\modules\mob\living\simple_animal\hostile code\modules\power code\WorkInProgress\lie icons icons\effects maps 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 510.1345
+WINDOW: code\modules\mob\mob_movement.dm;code\modules\mob\living\carbon\human\human.dm;code\WorkInProgress\lie\shadow3d.dm;code\WorkInProgress\lie\subsystem.dm;code\game\objects\structures\ladders.dm;code\modules\mob\living\carbon\human\hud.dm;maps\pol_t_d.dmm;code\game\machinery\atmo_control.dm;code\game\events\Event.dm;code\game\events\EventsMain.dm;code\game\events\Events\VirusEpidemic.dm;code\game\events\Events\Ninja.dm;code\game\events\Events\carps.dm;code\game\events\Events\meteor.dm;code\game\events\Events\Alien.dm;code\game\events\Events\EventProc.dm;code\game\gamemodes\events\spacevines.dm;code\modules\mob\death.dm;code\modules\mob\dead\death.dm;code\modules\mob\dead\observer\observer.dm;code\game\gamemodes\gameticker.dm;code\modules\mob\living\simple_animal\hostile\russian.dm;code\modules\power\lighting.dm;code\modules\mob\living\carbon\human\life.dm;code\setup.dm;code\modules\mob\living\carbon\carbon.dm;code\modules\mob\living\carbon\alien\humanoid\life.dm
+FILE: code\modules\mob\living\carbon\human\life.dm
+*/
+// END_INTERNALS

@@ -1,0 +1,50 @@
+
+
+Starting up. 00:28.46
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[00:28:47]ADMIN: Loading Banlistjob
+[00:28:47]ADMIN: Loading jobban_rank
+[00:28:47]ADMIN: jobban_keylist was empty
+[00:28:47]ADMIN: Updating jobbanfile!
+[00:28:47]ADMIN: Loading Banlist
+[00:31:10]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-3719049919 || BYOND v509
+[00:31:28]ADMIN: S_Sting has started the game.
+[00:31:39]DEBUG: Next event in 27.322 minutes.
+[00:31:50]ACCESS: Logout: *no key*/(S_Sting)
+[00:31:50]ACCESS: Login: S_Sting/(David Hardie) from 127.0.0.1-3719049919 || BYOND v509
+[00:32:11]SAY: rabbit/ : HSSSSS
+[00:32:31]ACCESS: Logout: S_Sting/(David Hardie)
+[00:32:33]ACCESS: Login: S_Sting/(David Hardie) from 127.0.0.1-3719049919 || BYOND v509
+[00:32:34]EMOTE: David Hardie/S_Sting : <B>David Hardie</B> snores.
+[00:32:43]SAY: wolf/ : Woooooo!
+[00:33:20]SAY: wolf/ : Bark!
+[00:33:49]SAY: rabbit/ : HSSSSS
+[00:33:55]SAY: wolf/ : Bark!
+[00:34:03]SAY: wolf/ : Bark!
+[00:34:05]SAY: wolf/ : Rawr!
+[00:34:23]SAY: wolf/ : Bark!
+[00:34:32]SAY: Runtime/ : Esp!
+[00:34:41]ACCESS: Logout: S_Sting/(David Hardie)

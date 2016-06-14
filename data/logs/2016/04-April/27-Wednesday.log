@@ -1,0 +1,44 @@
+
+
+Starting up. 23:42.48
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[23:42:48]ADMIN: Loading Banlistjob
+[23:42:48]ADMIN: Loading jobban_rank
+[23:42:48]ADMIN: jobban_keylist was empty
+[23:42:48]ADMIN: Updating jobbanfile!
+[23:42:48]ADMIN: Loading Banlist
+[23:47:44]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-3719049919 || BYOND v509
+[23:48:03]ADMIN: S_Sting has started the game.
+[23:48:07]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[23:48:09]DEBUG: Next event in 25.358 minutes.
+[23:48:15]ACCESS: Logout: *no key*/(S_Sting)
+[23:48:15]ACCESS: Login: S_Sting/(Jack Bacon) from 127.0.0.1-3719049919 || BYOND v509
+[23:48:20]ACCESS: Logout: S_Sting/(Jack Bacon)
+[23:48:25]ACCESS: Login: S_Sting/(Jack Bacon) from 127.0.0.1-3719049919 || BYOND v509
+[23:48:54]SAY: wolf/ : Bark!
+[23:49:43]SAY: rabbit/ : HSSSSS
+[23:49:45]EMOTE: Jack Bacon/S_Sting : <B>Jack Bacon</B> screams!
+[23:50:01]ACCESS: Logout: S_Sting/(Jack Bacon)

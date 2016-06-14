@@ -1,0 +1,136 @@
+
+
+Starting up. 01:24.13
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[01:24:13]ADMIN: Loading Banlistjob
+[01:24:13]ADMIN: Loading jobban_rank
+[01:24:13]ADMIN: jobban_keylist was empty
+[01:24:13]ADMIN: Updating jobbanfile!
+[01:24:13]ADMIN: Loading Banlist
+[01:26:13]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-3719049919 || BYOND v509
+[01:26:40]ADMIN: S_Sting has started the game.
+[01:26:53]SAY: rabbit/ : Pew!
+[01:27:02]DEBUG: Next event in 21.576 minutes.
+[01:27:03]ACCESS: Logout: *no key*/(S_Sting)
+[01:27:03]ACCESS: Login: S_Sting/(Mason Williamson) from 127.0.0.1-3719049919 || BYOND v509
+[01:27:11]ACCESS: Logout: S_Sting/(Mason Williamson)
+[01:27:13]ACCESS: Login: S_Sting/(Mason Williamson) from 127.0.0.1-3719049919 || BYOND v509
+[01:27:15]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[01:27:17]EMOTE: Mason Williamson/S_Sting : <B>Mason Williamson</B> snores.
+[01:27:26]ADMIN: S_Sting/(Mason Williamson) spawned /obj/item/weapon/gun/energy/taser at (148,184,1)
+[01:28:10]SAY: Betsy/ : MOOOOOO
+[01:28:44]ACCESS: Logout: S_Sting/(Mason Williamson)
+
+
+Starting up. 01:47.15
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[01:47:16]ADMIN: Loading Banlistjob
+[01:47:16]ADMIN: Loading jobban_rank
+[01:47:16]ADMIN: jobban_keylist was empty
+[01:47:16]ADMIN: Updating jobbanfile!
+[01:47:16]ADMIN: Loading Banlist
+[02:00:22]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-3719049919 || BYOND v509
+[02:02:59]DEBUG: Next event in 21.672 minutes.
+[02:03:23]ACCESS: Logout: *no key*/(S_Sting)
+[02:03:23]ACCESS: Login: S_Sting/(Griffin Ann) from 127.0.0.1-3719049919 || BYOND v509
+[02:03:47]ACCESS: Logout: S_Sting/(Griffin Ann)
+[02:03:50]ACCESS: Login: S_Sting/(Griffin Ann) from 127.0.0.1-3719049919 || BYOND v509
+[02:04:38]SAY: rabbit/ : HSSSSS
+[02:04:48]SAY: wolf/ : Bark!
+[02:05:00]SAY: rabbit/ : HSSSSS
+[02:05:06]SAY: ferconga/ : Growl!
+[02:05:10]SAY: wolf/ : RAWR!
+[02:05:18]SAY: wolf/ : Woooooo!
+[02:05:30]SAY: wolf/ : Woooooo!
+[02:05:41]SAY: rabbit/ : HSSSSS
+[02:06:04]SAY: wolf/ : RAWR!
+[02:06:18]ACCESS: Logout: S_Sting/(Griffin Ann)
+
+
+Starting up. 02:31.12
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[02:31:12]ADMIN: Loading Banlistjob
+[02:31:12]ADMIN: Loading jobban_rank
+[02:31:12]ADMIN: jobban_keylist was empty
+[02:31:12]ADMIN: Updating jobbanfile!
+[02:31:12]ADMIN: Loading Banlist
+[02:33:37]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-3719049919 || BYOND v509
+[02:33:59]ADMIN: S_Sting has started the game.
+[02:34:16]DEBUG: Next event in 25.084 minutes.
+[02:34:17]ACCESS: Logout: *no key*/(S_Sting)
+[02:34:17]ACCESS: Login: S_Sting/(Seymour Greene) from 127.0.0.1-3719049919 || BYOND v509
+[02:34:22]ACCESS: Logout: S_Sting/(Seymour Greene)
+[02:34:26]ACCESS: Login: S_Sting/(Seymour Greene) from 127.0.0.1-3719049919 || BYOND v509
+[02:35:02]SAY: rabbit/ : HSSSSS
+[02:35:15]SAY: wolf/ : Rawr!
+[02:35:29]SAY: Ian/ : AUUUUUU
+[02:35:53]ACCESS: Logout: S_Sting/(Seymour Greene)

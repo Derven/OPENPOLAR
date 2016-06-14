@@ -1,0 +1,79 @@
+
+
+Starting up. 21:47.23
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[21:47:23]ADMIN: Loading Banlistjob
+[21:47:23]ADMIN: Loading jobban_rank
+[21:47:23]ADMIN: jobban_keylist was empty
+[21:47:23]ADMIN: Updating jobbanfile!
+[21:47:23]ADMIN: Loading Banlist
+[21:55:27]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v509
+[21:55:33]ADMIN: S_Sting has started the game.
+[21:55:36]DEBUG: Next event in 21.824 minutes.
+[21:55:38]SAY: wolf/ : Rawr!
+[21:55:46]SAY: wolf/ : Bark!
+[21:55:50]ACCESS: Logout: *no key*/(S_Sting)
+[21:55:50]ACCESS: Login: S_Sting/(Brick Riker) from 127.0.0.1-1323850029 || BYOND v509
+[21:55:50]SAY: rabbit/ : Pew!
+[21:56:10]SAY: rabbit/ : Pew!
+[21:56:18]SAY: wolf/ : Bark!
+[21:56:36]SAY: wolf/ : RAWR!
+[21:56:58]SAY: wolf/ : RAWR!
+[21:57:04]SAY: ferconga/ : GRR!
+[21:57:26]SAY: rabbit/ : HSSSSS
+[21:57:31]SAY: rabbit/ : HSSSSS
+[21:58:09]SAY: rabbit/ : Pew!
+[21:58:09]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[21:58:09]SAY: Runtime/ : HSSSSS
+[21:59:05]SAY: rabbit/ : HSSSSS
+[21:59:07]SAY: wolf/ : RAWR!
+[21:59:39]SAY: wolf/ : Woooooo!
+[21:59:50]SAY: rabbit/ : HSSSSS
+[22:00:10]SAY: rabbit/ : HSSSSS
+[22:01:09]SAY: wolf/ : Rawr!
+[22:03:07]SAY: Betsy/ : Moo?
+[22:03:51]SAY: wolf/ : Rawr!
+[22:03:53]SAY: Ian/ : YAP
+[22:04:09]SAY: rabbit/ : Pew!
+[22:04:17]SAY: Runtime/ : Meow!
+[22:04:21]SAY: wolf/ : Rawr!
+[22:04:37]SAY: wolf/ : Woooooo!
+[22:04:43]SAY: ferconga/ : Growl!
+[22:04:49]SAY: rabbit/ : Pew!
+[22:05:25]SAY: wolf/ : Woooooo!
+[22:05:55]SAY: rabbit/ : Pew!
+[22:06:04]SAY: wolf/ : Bark!
+[22:06:08]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[22:06:34]SAY: wolf/ : RAWR!
+[22:06:36]SAY: rabbit/ : Pew!
+[22:06:42]SAY: rabbit/ : HSSSSS
+[22:06:44]SAY: wolf/ : Rawr!
+[22:08:10]SAY: wolf/ : RAWR!
+[22:08:16]SAY: wolf/ : Rawr!
+[22:08:34]SAY: wolf/ : RAWR!
+[22:08:44]SAY: wolf/ : RAWR!
+[22:08:56]SAY: wolf/ : Bark!
+[22:09:11]ACCESS: Logout: S_Sting/(Brick Riker)

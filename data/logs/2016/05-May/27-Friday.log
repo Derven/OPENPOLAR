@@ -1,0 +1,253 @@
+
+
+Starting up. 22:15.54
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[22:15:54]ADMIN: Loading Banlistjob
+[22:15:54]ADMIN: Loading jobban_rank
+[22:15:54]ADMIN: jobban_keylist was empty
+[22:15:54]ADMIN: Updating jobbanfile!
+[22:15:54]ADMIN: Loading Banlist
+[22:49:18]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v509
+[22:49:24]ADMIN: S_Sting has started the game.
+[22:49:27]DEBUG: Next event in 22.248 minutes.
+[22:49:29]ACCESS: Logout: *no key*/(S_Sting)
+[22:49:29]ACCESS: Login: S_Sting/(Enrique Perkins) from 127.0.0.1-1323850029 || BYOND v509
+[22:49:32]SAY: wolf/ : RAWR!
+[22:49:41]SAY: wolf/ : Woooooo!
+[22:50:11]SAY: rabbit/ : HSSSSS
+[22:50:20]ADMIN: S_Sting/(Enrique Perkins) spawned /mob/living/carbon/human at (140,173,1)
+[22:50:51]SAY: rabbit/ : HSSSSS
+[22:50:55]SAY: Runtime/ : Purr!
+[22:51:03]ADMIN: S_Sting/(Enrique Perkins) modified unknown's name to John Gohn
+[22:51:15]SAY: wolf/ : Rawr!
+[22:51:21]SAY: rabbit/ : HSSSSS
+[22:51:39]SAY: wolf/ : Rawr!
+[22:51:45]ADMIN: S_Sting/(Enrique Perkins) modified unknown's real_name to john
+[22:52:59]SAY: wolf/ : Woooooo!
+[22:53:05]SAY: rabbit/ : Pew!
+[22:53:42]SAY: wolf/ : Rawr!
+[22:53:42]SAY: rabbit/ : Pew!
+[22:53:48]SAY: rabbit/ : Pew!
+[22:53:56]SAY: wolf/ : Bark!
+[22:54:30]SAY: wolf/ : Woooooo!
+[22:54:38]SAY: wolf/ : Bark!
+[22:55:33]SAY: rabbit/ : Pew!
+[22:55:35]SAY: wolf/ : Rawr!
+[22:55:43]SAY: rabbit/ : Pew!
+[22:55:53]SAY: wolf/ : RAWR!
+[22:56:07]SAY: wolf/ : Woooooo!
+[22:56:31]SAY: ferconga/ : Growl!
+[22:57:23]SAY: Runtime/ : Purr!
+[22:57:26]ADMIN: S_Sting/(Enrique Perkins) modified john's ckey to hello
+[22:57:35]SAY: wolf/ : Rawr!
+[22:57:55]SAY: rabbit/ : HSSSSS
+[22:58:31]SAY: wolf/ : Rawr!
+[22:58:50]SAY: wolf/ : Woooooo!
+[22:59:44]SAY: rabbit/ : HSSSSS
+[23:01:28]SAY: rabbit/ : HSSSSS
+[23:01:31]SAY: rabbit/ : HSSSSS
+[23:01:48]ACCESS: Logout: S_Sting/(Enrique Perkins)
+
+
+Starting up. 23:22.14
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[23:22:15]ADMIN: Loading Banlistjob
+[23:22:15]ADMIN: Loading jobban_rank
+[23:22:15]ADMIN: jobban_keylist was empty
+[23:22:15]ADMIN: Updating jobbanfile!
+[23:22:15]ADMIN: Loading Banlist
+[23:22:19]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v509
+[23:22:37]ADMIN: S_Sting has started the game.
+[23:22:39]SAY: wolf/ : RAWR!
+[23:22:40]DEBUG: Next event in 20.904 minutes.
+[23:22:42]SAY: rabbit/ : HSSSSS
+[23:22:42]ACCESS: Logout: *no key*/(S_Sting)
+[23:22:42]ACCESS: Login: S_Sting/(Derek Lapin) from 127.0.0.1-1323850029 || BYOND v509
+[23:23:12]SAY: wolf/ : Bark!
+[23:23:12]SAY: wolf/ : Bark!
+[23:23:27]ADMIN: S_Sting/(Derek Lapin) spawned /mob/living/carbon/human at (135,174,1)
+[23:23:46]SAY: rabbit/ : HSSSSS
+[23:23:48]SAY: wolf/ : RAWR!
+[23:24:20]SAY: mouse/ : Squeek?
+[23:24:22]SAY: wolf/ : Woooooo!
+[23:24:42]SAY: wolf/ : Woooooo!
+[23:24:51]SAY: wolf/ : Rawr!
+[23:25:04]SAY: rabbit/ : Pew!
+[23:25:20]SAY: rabbit/ : Pew!
+[23:25:30]SAY: rabbit/ : Pew!
+[23:25:48]SAY: rabbit/ : HSSSSS
+[23:25:58]SAY: wolf/ : Bark!
+[23:26:12]SAY: rabbit/ : Pew!
+[23:26:14]SAY: wolf/ : Rawr!
+[23:26:16]SAY: wolf/ : Rawr!
+[23:26:16]SAY: wolf/ : Rawr!
+[23:26:16]SAY: rabbit/ : HSSSSS
+[23:26:34]SAY: wolf/ : Bark!
+[23:27:18]SAY: wolf/ : Bark!
+[23:27:34]SAY: wolf/ : RAWR!
+[23:28:12]SAY: wolf/ : Rawr!
+[23:28:17]SAY: rabbit/ : HSSSSS
+[23:29:07]SAY: Commander Clucky/ : Cluck!
+[23:29:25]SAY: wolf/ : Woooooo!
+[23:29:41]SAY: wolf/ : Bark!
+[23:29:45]SAY: rabbit/ : HSSSSS
+[23:29:47]SAY: Commander Clucky/ : Cluck!
+[23:30:39]SAY: wolf/ : RAWR!
+[23:30:43]SAY: rabbit/ : HSSSSS
+[23:31:21]SAY: wolf/ : Bark!
+[23:31:27]SAY: rabbit/ : HSSSSS
+[23:31:27]SAY: wolf/ : RAWR!
+[23:32:23]SAY: wolf/ : Rawr!
+[23:32:23]SAY: ferconga/ : Growl!
+[23:32:24]ACCESS: Logout: S_Sting/(Derek Lapin)
+
+
+Starting up. 23:38.10
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[23:38:10]ADMIN: Loading Banlistjob
+[23:38:10]ADMIN: Loading jobban_rank
+[23:38:10]ADMIN: jobban_keylist was empty
+[23:38:10]ADMIN: Updating jobbanfile!
+[23:38:10]ADMIN: Loading Banlist
+[23:48:22]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v509
+[23:48:33]ADMIN: S_Sting has started the game.
+[23:48:37]SAY: wolf/ : Rawr!
+[23:48:39]DEBUG: Next event in 29.644 minutes.
+[23:48:40]ACCESS: Logout: *no key*/(S_Sting)
+[23:48:40]ACCESS: Login: S_Sting/(Reed Andreev) from 127.0.0.1-1323850029 || BYOND v509
+[23:48:42]SAY: wolf/ : RAWR!
+[23:48:44]SAY: rabbit/ : HSSSSS
+[23:48:58]SAY: wolf/ : Woooooo!
+[23:49:17]ADMIN: S_Sting/(Reed Andreev) spawned /mob/living/carbon/human at (137,173,1)
+[23:49:20]SAY: Betsy/ : MOOOOOO
+[23:49:23]SAY: wolf/ : Woooooo!
+[23:50:43]SAY: wolf/ : Rawr!
+[23:50:45]SAY: rabbit/ : HSSSSS
+[23:51:27]SAY: wolf/ : Woooooo!
+[23:51:50]SAY: wolf/ : Woooooo!
+[23:52:18]SAY: rabbit/ : HSSSSS
+[23:53:00]SAY: wolf/ : Rawr!
+[23:53:20]SAY: Runtime/ : Meow!
+[23:53:25]SAY: wolf/ : Rawr!
+[23:53:50]SAY: wolf/ : RAWR!
+[23:53:59]SAY: rabbit/ : Pew!
+[23:54:05]SAY: wolf/ : Woooooo!
+[23:54:13]SAY: wolf/ : RAWR!
+[23:54:15]SAY: wolf/ : RAWR!
+[23:54:21]SAY: wolf/ : Bark!
+[23:54:29]SAY: wolf/ : Bark!
+[23:54:59]SAY: rabbit/ : HSSSSS
+[23:56:11]SAY: Commander Clucky/ : Cluck!
+[23:56:13]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[23:56:17]SAY: rabbit/ : Pew!
+[23:56:25]SAY: wolf/ : Bark!
+[23:57:14]SAY: Ian/ : Bark!
+[23:57:16]SAY: wolf/ : Woooooo!
+[23:57:18]SAY: rabbit/ : HSSSSS
+[23:57:48]SAY: wolf/ : Woooooo!
+[23:57:52]SAY: rabbit/ : HSSSSS
+[23:58:12]SAY: rabbit/ : HSSSSS
+[23:58:25]SAY: rabbit/ : Pew!
+[23:58:28]SAY: wolf/ : Rawr!
+[23:59:00]SAY: ferconga/ : Growl!
+[23:59:01]SAY: wolf/ : Bark!
+[00:00:15]SAY: Commander Clucky/ : Bwaak bwak.
+[00:00:21]SAY: rabbit/ : Pew!
+[00:00:37]SAY: rabbit/ : Pew!
+[00:00:37]SAY: wolf/ : Bark!
+[00:00:49]SAY: wolf/ : Bark!
+[00:01:25]SAY: rabbit/ : Pew!
+[00:01:52]SAY: wolf/ : RAWR!
+[00:02:38]SAY: wolf/ : Woooooo!
+[00:03:20]SAY: wolf/ : Bark!
+[00:03:44]SAY: wolf/ : Bark!
+[00:04:02]SAY: Commander Clucky/ : Cluck!
+[00:04:34]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[00:04:44]SAY: rabbit/ : HSSSSS
+[00:04:58]SAY: Ian/ : YAP
+[00:05:10]SAY: rabbit/ : HSSSSS
+[00:05:16]SAY: rabbit/ : Pew!
+[00:05:25]SAY: wolf/ : Bark!
+[00:05:27]SAY: Betsy/ : Moo?
+[00:05:33]SAY: Commander Clucky/ : Cluck!
+[00:05:35]SAY: wolf/ : Rawr!
+[00:05:39]SAY: wolf/ : RAWR!
+[00:07:29]SAY: rabbit/ : HSSSSS
+[00:07:31]SAY: wolf/ : RAWR!
+[00:07:57]SAY: wolf/ : Bark!
+[00:08:30]SAY: rabbit/ : HSSSSS
+[00:09:00]SAY: rabbit/ : Pew!
+[00:09:12]SAY: wolf/ : Rawr!
+[00:11:22]SAY: rabbit/ : HSSSSS
+[00:12:29]SAY: rabbit/ : Pew!
+[00:12:36]SAY: wolf/ : Woooooo!
+[00:13:06]ACCESS: Logout: S_Sting/(Reed Andreev)

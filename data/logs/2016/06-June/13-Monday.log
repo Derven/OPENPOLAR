@@ -1,0 +1,45 @@
+
+
+Starting up. 23:54.18
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[23:54:18]ADMIN: Loading Banlistjob
+[23:54:18]ADMIN: Loading jobban_rank
+[23:54:18]ADMIN: jobban_keylist was empty
+[23:54:18]ADMIN: Updating jobbanfile!
+[23:54:18]ADMIN: Loading Banlist
+[23:54:27]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[23:54:37]ADMIN: S_Sting has started the game.
+[23:54:46]DEBUG: Next event in 25.228 minutes.
+[23:55:09]SAY: rabbit/ : HSSSSS
+[23:55:11]SAY: wolf/ : Woooooo!
+[23:55:13]SAY: wolf/ : Woooooo!
+[23:55:25]ACCESS: Logout: S_Sting/(S_Sting)
+[23:55:27]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[23:55:29]SAY: rabbit/ : HSSSSS
+[23:56:07]SAY: Commander Clucky/ : BWAAAAARK BWAK BWAK BWAK!
+[23:56:31]SAY: rabbit/ : Pew!
+[23:56:37]SAY: wolf/ : Rawr!
+[23:56:42]ACCESS: Logout: S_Sting/(S_Sting)

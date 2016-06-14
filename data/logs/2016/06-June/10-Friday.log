@@ -1,0 +1,98 @@
+
+
+Starting up. 03:11.04
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[03:11:04]ADMIN: Loading Banlistjob
+[03:11:04]ADMIN: Loading jobban_rank
+[03:11:04]ADMIN: jobban_keylist was empty
+[03:11:04]ADMIN: Updating jobbanfile!
+[03:11:04]ADMIN: Loading Banlist
+[03:13:32]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[03:14:09]ADMIN: S_Sting has started the game.
+[03:14:12]DEBUG: Next event in 26.102 minutes.
+[03:14:22]ACCESS: Logout: *no key*/(S_Sting)
+[03:14:22]ACCESS: Login: S_Sting/(Carson Trevor) from 127.0.0.1-1323850029 || BYOND v510
+[03:14:26]SAY: wolf/ : Bark!
+[03:14:32]SAY: wolf/ : Rawr!
+[03:14:34]SAY: rabbit/ : Pew!
+[03:14:52]SAY: rabbit/ : Pew!
+[03:14:55]ACCESS: Logout: S_Sting/(Carson Trevor)
+
+
+Starting up. 03:35.59
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode Memetic Anomaly (meme) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: sandbox.
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown game mode probability configuration definition: epidemic.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'extended'
+Failed to load config/mods.txt
+
+[03:36:00]ADMIN: Loading Banlistjob
+[03:36:00]ADMIN: Loading jobban_rank
+[03:36:00]ADMIN: jobban_keylist was empty
+[03:36:00]ADMIN: Updating jobbanfile!
+[03:36:00]ADMIN: Loading Banlist
+[03:50:41]ACCESS: Login: S_Sting/(S_Sting) from 127.0.0.1-1323850029 || BYOND v510
+[03:50:50]ADMIN: S_Sting has started the game.
+[03:51:00]DEBUG: Next event in 28.65 minutes.
+[03:51:02]ACCESS: Logout: *no key*/(S_Sting)
+[03:51:02]ACCESS: Login: S_Sting/(Abel Watson) from 127.0.0.1-1323850029 || BYOND v510
+[03:51:14]SAY: Runtime/ : Meow!
+[03:51:38]SAY: rabbit/ : HSSSSS
+[03:52:12]SAY: rabbit/ : HSSSSS
+[03:52:12]SAY: wolf/ : Rawr!
+[03:52:45]SAY: rabbit/ : Pew!
+[03:53:13]SAY: Runtime/ : Esp!
+[03:53:43]SAY: wolf/ : Woooooo!
+[03:54:07]SAY: rabbit/ : Pew!
+[03:54:17]SAY: wolf/ : Rawr!
+[03:54:23]SAY: rabbit/ : Pew!
+[03:54:27]SAY: wolf/ : Rawr!
+[03:54:57]SAY: wolf/ : Rawr!
+[03:55:16]SAY: wolf/ : RAWR!
+[03:55:20]SAY: wolf/ : Bark!
+[03:55:36]SAY: wolf/ : Bark!
+[03:55:40]SAY: wolf/ : RAWR!
+[03:55:50]SAY: wolf/ : RAWR!
+[03:56:12]SAY: rabbit/ : HSSSSS
+[03:56:17]ACCESS: Logout: S_Sting/(Abel Watson)

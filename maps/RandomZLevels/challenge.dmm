@@ -1,0 +1,234 @@
+"aa" = (/turf/space,/area)
+"ab" = (/turf/simulated/shuttle/wall{icon_state = "wall3"},/area)
+"ac" = (/obj/structure/girder,/turf/simulated/floor/plating/airless,/area)
+"ad" = (/turf/simulated/floor/plating,/area)
+"ae" = (/turf/simulated/floor/airless{icon_state = "damaged5"},/area)
+"af" = (/turf/simulated/floor/airless{icon_state = "damaged2"},/area)
+"ag" = (/obj/item/clothing/suit/space/syndicate/blue,/obj/item/clothing/head/helmet/space/syndicate/blue,/turf/simulated/floor/airless{icon_state = "damaged2"},/area)
+"ah" = (/turf/simulated/floor/airless,/area)
+"ai" = (/obj/item/device/flashlight{icon_state = "flashlight-on"; item_state = "flashlight"; on = 1},/turf/simulated/floor/airless,/area)
+"aj" = (/obj/effect/landmark{name = "awaystart"},/turf/simulated/floor/airless{icon_state = "damaged3"},/area)
+"ak" = (/obj/effect/decal/remains/human,/turf/simulated/floor/airless{icon_state = "damaged4"},/area)
+"al" = (/obj/effect/landmark{name = "awaystart"},/turf/simulated/floor/airless,/area)
+"am" = (/obj/item/clothing/suit/space/syndicate/green,/obj/item/clothing/head/helmet/space/syndicate/green,/turf/simulated/floor/airless{icon_state = "damaged2"},/area)
+"an" = (/turf/simulated/floor/airless{icon_state = "damaged3"},/area)
+"ao" = (/obj/item/clothing/suit/space/syndicate/orange,/obj/item/clothing/head/helmet/space/syndicate/orange,/turf/simulated/floor/airless,/area)
+"ap" = (/obj/item/weapon/gun/energy/laser/retro,/turf/simulated/floor/airless,/area)
+"aq" = (/obj/item/stack/rods,/turf/simulated/floor,/area)
+"ar" = (/obj/effect/decal/cleanable/oil,/turf/simulated/floor/airless,/area)
+"as" = (/obj/effect/decal/remains/robot,/turf/simulated/floor/airless{icon_state = "damaged2"},/area)
+"at" = (/obj/structure/girder,/turf/simulated/floor/plating,/area)
+"au" = (/turf/simulated/wall,/area)
+"av" = (/turf/simulated/floor/airless{icon_state = "damaged4"},/area)
+"aw" = (/obj/item/stack/rods,/obj/effect/decal/cleanable/blood/splatter,/turf/simulated/floor/airless{icon_state = "damaged2"},/area)
+"ax" = (/obj/effect/decal/cleanable/oil,/mob/living/simple_animal/hostile/syndicate,/turf/simulated/floor/plating,/area)
+"ay" = (/obj/effect/decal/cleanable/blood,/turf/simulated/floor/airless,/area)
+"az" = (/obj/item/clothing/suit/space/syndicate/black,/obj/item/clothing/head/helmet/space/syndicate/black,/turf/simulated/floor/airless{icon_state = "damaged2"},/area)
+"aA" = (/turf/simulated/floor/plating/airless,/area)
+"aB" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 2; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/turf/simulated/floor/plating/airless,/area)
+"aC" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/airless,/area)
+"aD" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/airless,/area)
+"aE" = (/obj/effect/decal/cleanable/oil,/turf/simulated/floor/plating/airless,/area)
+"aF" = (/obj/structure/window/reinforced,/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 2; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/turf/simulated/floor/plating/airless,/area)
+"aG" = (/obj/structure/window/reinforced,/turf/simulated/floor/plating/airless,/area)
+"aH" = (/obj/structure/window/reinforced,/obj/effect/decal/cleanable/oil,/turf/simulated/floor/plating/airless,/area)
+"aI" = (/turf/simulated/floor{icon_state = "warning"},/area)
+"aJ" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 4; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/turf/simulated/floor/plating/airless,/area)
+"aK" = (/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating/airless,/area)
+"aL" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/airless,/area)
+"aM" = (/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating/airless,/area)
+"aN" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 8; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/turf/simulated/floor/plating/airless,/area)
+"aO" = (/obj/machinery/porta_turret{dir = 8; emagged = 1; installation = /obj/item/weapon/gun/energy/lasercannon},/turf/simulated/floor/plating/airless,/area)
+"aP" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating/airless,/area)
+"aQ" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating/airless,/area)
+"aR" = (/turf/simulated/floor{dir = 1; icon_state = "warning"},/area)
+"aS" = (/obj/item/device/multitool,/turf/simulated/floor/airless,/area)
+"aT" = (/obj/effect/decal/cleanable/blood/splatter,/turf/simulated/floor/airless,/area)
+"aU" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating{tag = "icon-warnplate (NORTHWEST)"; icon_state = "warnplate"; dir = 9},/area)
+"aV" = (/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating{tag = "icon-warnplate (NORTH)"; icon_state = "warnplate"; dir = 1},/area)
+"aW" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 1; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating{tag = "icon-warnplate (NORTH)"; icon_state = "warnplate"; dir = 1},/area)
+"aX" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating{tag = "icon-warnplate (NORTHEAST)"; icon_state = "warnplate"; dir = 5},/area)
+"aY" = (/turf/simulated/floor,/area)
+"aZ" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 1; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating{tag = "icon-warnplate (WEST)"; icon_state = "warnplate"; dir = 8},/area)
+"ba" = (/obj/machinery/light,/turf/simulated/floor/plating,/area)
+"bb" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 1; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/obj/machinery/light,/turf/simulated/floor/plating,/area)
+"bc" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 1; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/turf/simulated/floor/plating{tag = "icon-warnplate (EAST)"; icon_state = "warnplate"; dir = 4},/area)
+"bd" = (/obj/machinery/door/window,/turf/simulated/floor/airless,/area)
+"be" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 2; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating{tag = "icon-warnplate (WEST)"; icon_state = "warnplate"; dir = 8},/area)
+"bf" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/plating,/area)
+"bg" = (/obj/machinery/porta_turret{dir = 8; emagged = 1; installation = /obj/item/weapon/gun/energy/lasercannon},/turf/simulated/floor/plating,/area)
+"bh" = (/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating{tag = "icon-warnplate (EAST)"; icon_state = "warnplate"; dir = 4},/area)
+"bi" = (/obj/structure/window/reinforced{dir = 4},/obj/effect/decal/cleanable/oil,/turf/simulated/floor/plating/airless,/area)
+"bj" = (/obj/item/weapon/storage/toolbox/electrical,/turf/simulated/floor/airless,/area)
+"bk" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/turf/simulated/floor/plating{tag = "icon-warnplate (SOUTHWEST)"; icon_state = "warnplate"; dir = 10},/area)
+"bl" = (/obj/structure/window/reinforced,/turf/simulated/floor/plating{dir = 2; icon_state = "warnplate"; tag = "icon-warnplate (NORTH)"},/area)
+"bm" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor/plating{tag = "icon-warnplate (SOUTHEAST)"; icon_state = "warnplate"; dir = 6},/area)
+"bn" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 8; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating/airless,/area)
+"bo" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor{icon_state = "warning"},/area)
+"bp" = (/obj/machinery/light{dir = 4},/turf/simulated/floor{icon_state = "warning"},/area)
+"bq" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating/airless,/area)
+"br" = (/obj/item/clothing/gloves/yellow,/turf/simulated/floor{dir = 1; icon_state = "warning"},/area)
+"bs" = (/obj/structure/window/reinforced{dir = 8},/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 8; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/turf/simulated/floor/plating/airless,/area)
+"bt" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 4; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/turf/simulated/floor/plating/airless,/area)
+"bu" = (/obj/item/weapon/storage/firstaid/fire,/turf/simulated/floor/airless,/area)
+"bv" = (/turf/simulated/floor{dir = 2; icon_state = "whitecorner"},/area)
+"bw" = (/turf/simulated/floor{icon_state = "whitehall"; dir = 2},/area)
+"bx" = (/turf/simulated/floor{dir = 8; icon_state = "whitecorner"},/area)
+"by" = (/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating/airless,/area)
+"bz" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating/airless,/area)
+"bA" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating/airless,/area)
+"bB" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 1; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating/airless,/area)
+"bC" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 1; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/turf/simulated/floor/plating/airless,/area)
+"bD" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 1; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating/airless,/area)
+"bE" = (/obj/machinery/power/emitter{active = 1; active_power_usage = 0; anchored = 1; dir = 1; idle_power_usage = 0; locked = 1; name = "Energy Cannon"; req_access_txt = "100"; state = 2; use_power = 0},/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating/airless,/area)
+"bF" = (/obj/item/weapon/gun/projectile/russian,/turf/simulated/floor{icon_state = "whitehall"; dir = 2},/area)
+"bG" = (/obj/structure/table/reinforced,/obj/machinery/light{dir = 1},/turf/simulated/shuttle/floor{icon_state = "floor4"},/area)
+"bH" = (/obj/machinery/computer/security/telescreen{desc = "Used for watching evil areas."; name = "Security Monitor"; network = ""; pixel_x = 0; pixel_y = 30},/obj/structure/table/reinforced,/turf/simulated/floor{icon_state = "dark"},/area)
+"bI" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/light,/turf/simulated/floor/plating/airless,/area)
+"bJ" = (/turf/simulated/floor{dir = 2; icon_state = "warnwhite"; tag = "icon-warnwhite (NORTH)"},/area)
+"bK" = (/obj/structure/window/reinforced{dir = 8},/obj/machinery/light,/turf/simulated/floor/plating/airless,/area)
+"bL" = (/obj/machinery/light{dir = 1},/obj/structure/filingcabinet,/turf/simulated/floor/carpet,/area)
+"bM" = (/obj/machinery/computer/security/telescreen{desc = "Used for watching evil areas."; name = "Security Monitor"; network = ""; pixel_x = 0; pixel_y = 30},/turf/simulated/floor/carpet,/area)
+"bN" = (/obj/machinery/door_control{id = "challenge"; name = "Gateway Lockdown"; pixel_x = -4; pixel_y = 26; req_access_txt = "0"},/turf/simulated/floor/carpet,/area)
+"bO" = (/turf/simulated/floor/carpet,/area)
+"bP" = (/obj/structure/mirror{pixel_y = 28},/turf/simulated/floor/wood,/area)
+"bQ" = (/obj/machinery/light{dir = 1},/obj/structure/rack,/obj/item/clothing/suit/armor/swat,/obj/item/clothing/head/helmet/space/deathsquad,/turf/simulated/floor/wood,/area)
+"bR" = (/turf/simulated/shuttle/floor{icon_state = "floor4"},/area)
+"bS" = (/obj/structure/stool/bed/chair{dir = 1},/obj/item/device/radio/intercom{dir = 0; name = "Station Intercom (General)"; pixel_x = 0; pixel_y = 28},/turf/simulated/floor{icon_state = "dark"},/area)
+"bT" = (/turf/simulated/floor{icon_state = "dark"},/area)
+"bU" = (/mob/living/simple_animal/hostile/syndicate/ranged/space{name = "Syndicate Officer"},/turf/simulated/floor{icon_state = "dark"},/area)
+"bV" = (/obj/machinery/door/airlock/centcom{name = "Airlock"; opacity = 1; req_access_txt = "109"},/turf/simulated/floor/plating,/area)
+"bW" = (/obj/item/device/radio/intercom{dir = 0; name = "Station Intercom (General)"; pixel_x = -27},/turf/simulated/floor/carpet,/area)
+"bX" = (/obj/structure/stool/bed/chair/comfy/black,/mob/living/simple_animal/hostile/syndicate{name = "Syndicate Commander"},/turf/simulated/floor/carpet,/area)
+"bY" = (/obj/structure/table/woodentable,/turf/simulated/floor/carpet,/area)
+"bZ" = (/turf/simulated/floor/wood,/area)
+"ca" = (/obj/structure/rack,/obj/item/weapon/gun/projectile/mateba,/turf/simulated/floor/wood,/area)
+"cb" = (/mob/living/simple_animal/hostile/syndicate/melee,/turf/simulated/floor{icon_state = "dark"},/area)
+"cc" = (/obj/structure/window/reinforced{dir = 4},/turf/space,/area)
+"cd" = (/turf/simulated/floor/bluegrid,/area)
+"ce" = (/turf/simulated/floor{tag = "icon-vault (WEST)"; icon_state = "vault"; dir = 8},/area)
+"cf" = (/obj/structure/window/reinforced{dir = 8},/turf/space,/area)
+"cg" = (/obj/structure/table/woodentable,/obj/item/weapon/melee/chainofcommand,/obj/item/weapon/stamp,/turf/simulated/floor/carpet,/area)
+"ch" = (/obj/structure/table/woodentable,/obj/item/weapon/paper{info = "Congratulations,<br><br>Your station has been selected to carry out the Gateway Project.<br><br>The equipment will be shipped to you at the start of the next quarter.<br> You are to prepare a secure location to house the equipment as outlined in the attached documents.<br><br>--Nanotrasen Blue Space Research"; name = "Confidential Correspondence, Pg 1"; pixel_x = 0; pixel_y = 0},/obj/item/weapon/folder/blue,/turf/simulated/floor/carpet,/area)
+"ci" = (/obj/structure/table/woodentable,/obj/item/device/flashlight/lamp/green{pixel_x = 1; pixel_y = 5},/turf/simulated/floor/carpet,/area)
+"cj" = (/obj/structure/rack,/obj/item/weapon/gun/projectile/silenced,/turf/simulated/floor/wood,/area)
+"ck" = (/mob/living/simple_animal/hostile/syndicate/melee,/turf/simulated/shuttle/floor{icon_state = "floor4"},/area)
+"cl" = (/obj/structure/stool/bed/chair{dir = 1},/turf/simulated/floor/wood,/area)
+"cm" = (/obj/structure/rack,/obj/item/weapon/gun/projectile/automatic/l6_saw,/turf/simulated/floor/wood,/area)
+"cn" = (/obj/machinery/door/airlock/centcom{name = "Security"; opacity = 1; req_access_txt = "109"},/turf/simulated/floor{icon_state = "dark"},/area)
+"co" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/turf/space,/area)
+"cp" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/turf/space,/area)
+"cq" = (/obj/structure/sign/securearea,/turf/simulated/shuttle/wall{icon_state = "wall3"},/area)
+"cr" = (/obj/machinery/door/airlock/centcom{name = "Administrator"; opacity = 1; req_access_txt = "109"},/turf/simulated/floor{icon_state = "dark"},/area)
+"cs" = (/obj/item/weapon/storage/toolbox/electrical,/turf/simulated/floor/bluegrid,/area)
+"ct" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/bluegrid,/area)
+"cu" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/bluegrid,/area)
+"cv" = (/mob/living/simple_animal/hostile/syndicate/ranged,/turf/simulated/floor{icon_state = "dark"},/area)
+"cw" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/bluegrid,/area)
+"cx" = (/obj/structure/window/reinforced{dir = 1},/turf/space,/area)
+"cy" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/space,/area)
+"cz" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/turf/space,/area)
+"cA" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/space,/area)
+"cB" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/turf/space,/area)
+"cC" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating,/area)
+"cD" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating,/area)
+"cE" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating,/area)
+"cF" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating,/area)
+"cG" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/obj/machinery/door/poddoor{icon_state = "pdoor1"; id = "challenge"; name = "Gateway Shutters"; p_open = 0},/turf/simulated/floor/bluegrid,/area)
+"cH" = (/obj/machinery/gateway{dir = 9},/turf/simulated/floor{tag = "icon-vault (NORTH)"; icon_state = "vault"; dir = 1},/area)
+"cI" = (/obj/machinery/gateway{dir = 1},/turf/simulated/floor{tag = "icon-vault (WEST)"; icon_state = "vault"; dir = 8},/area)
+"cJ" = (/obj/machinery/gateway{dir = 5},/turf/simulated/floor{tag = "icon-vault (EAST)"; icon_state = "vault"; dir = 4},/area)
+"cK" = (/obj/machinery/light{dir = 4},/obj/machinery/door/poddoor{icon_state = "pdoor1"; id = "challenge"; name = "Gateway Shutters"; p_open = 0},/turf/simulated/floor/bluegrid,/area)
+"cL" = (/obj/machinery/door/poddoor{icon_state = "pdoor1"; id = "challenge"; name = "Gateway Shutters"; p_open = 0},/turf/simulated/floor/bluegrid,/area)
+"cM" = (/obj/machinery/gateway{dir = 8},/turf/simulated/floor{tag = "icon-vault (WEST)"; icon_state = "vault"; dir = 8},/area)
+"cN" = (/obj/machinery/gateway/centeraway{calibrated = 0},/turf/simulated/floor{icon_state = "dark"},/area)
+"cO" = (/obj/machinery/gateway{dir = 4},/turf/simulated/floor{tag = "icon-vault (WEST)"; icon_state = "vault"; dir = 8},/area)
+"cP" = (/obj/machinery/gateway{dir = 10},/turf/simulated/floor{tag = "icon-vault (EAST)"; icon_state = "vault"; dir = 4},/area)
+"cQ" = (/obj/machinery/gateway,/obj/structure/cable{icon_state = "0-2"; pixel_y = 1; d2 = 2},/turf/simulated/floor{tag = "icon-vault (WEST)"; icon_state = "vault"; dir = 8},/area)
+"cR" = (/obj/machinery/gateway{dir = 6},/turf/simulated/floor{tag = "icon-vault (NORTH)"; icon_state = "vault"; dir = 1},/area)
+"cS" = (/obj/structure/window/reinforced,/obj/machinery/door/poddoor{icon_state = "pdoor1"; id = "challenge"; name = "Gateway Shutters"; p_open = 0},/turf/simulated/floor/bluegrid,/area)
+"cT" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0; tag = ""},/obj/machinery/door/poddoor{icon_state = "pdoor1"; id = "challenge"; name = "Gateway Shutters"; p_open = 0},/turf/simulated/floor{icon_state = "dark"},/area)
+"cU" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/turf/space,/area)
+"cV" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area)
+"cW" = (/obj/structure/table,/obj/item/weapon/paper/pamphlet,/turf/simulated/floor{icon_state = "dark"},/area)
+"cX" = (/obj/structure/table,/obj/item/weapon/storage/firstaid/regular,/turf/simulated/floor{icon_state = "dark"},/area)
+"cY" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0; tag = ""},/turf/simulated/floor{icon_state = "dark"},/area)
+"cZ" = (/obj/structure/table,/turf/simulated/floor{icon_state = "dark"},/area)
+"da" = (/obj/structure/table,/obj/item/weapon/implanter/explosive,/obj/item/weapon/implanter/explosive{pixel_y = 4},/obj/item/weapon/implanter/explosive{pixel_y = 8},/obj/item/weapon/implanter/explosive{pixel_y = 12},/turf/simulated/floor{icon_state = "dark"},/area)
+"db" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/space,/area)
+"dc" = (/obj/machinery/door/airlock/centcom{name = "Gateway Access"; opacity = 1; req_access_txt = "109"},/turf/simulated/floor{icon_state = "dark"},/area)
+"dd" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating,/area)
+"de" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0; tag = ""},/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"; tag = ""},/mob/living/simple_animal/hostile/syndicate{name = "Syndicate Technician"},/turf/simulated/floor{icon_state = "dark"},/area)
+"df" = (/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"; tag = ""},/turf/simulated/floor{icon_state = "dark"},/area)
+"dg" = (/obj/machinery/light,/turf/simulated/floor/bluegrid,/area)
+"dh" = (/obj/structure/closet/emcloset,/turf/simulated/floor/bluegrid,/area)
+"di" = (/obj/structure/cable,/obj/machinery/power/smes/magical,/turf/simulated/floor/bluegrid,/area)
+"dj" = (/obj/machinery/power/terminal{dir = 8},/obj/structure/cable,/turf/simulated/floor/bluegrid,/area)
+"dk" = (/obj/structure/closet/l3closet/general,/turf/simulated/floor/bluegrid,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabacadaeafagahaiahabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabafajakalahalahamabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabananalahalahaladabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabahaoafafapaqarasabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabadafadatauatafavabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabananawafafanavaeabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabaxavavanayazadavabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaababababababatadanauababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaAaAaAaAabadafadahabaAaAaAaBabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaAaAaBaAabaCayaraDabaEaAaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ababababaFaGaHaGabaIaIaIaIabaGaFaGaGababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaJaKahahahahaLahahahahaLahahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahahahahahahahahahahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahayahahahahahahahahahahahaMaAaNabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahaIaIahahahahaIaIahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaOaAaKaCahahaPaQahahahahaPaQahahaDaMaEaOabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaJaAaKahahahaRaRaSahahahaRaRahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahahahahahahahahahaTahahaMaAaNabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahahahahahahahahahahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaJaAaKahahahahaUaVaWaVaVaXahahahahaMaNaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKaYaIaIaYaZbaadadbbbcaYaIaIaYaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaJaKaCaPaQbdababababababbdaPaQaDaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaJaAaKahaRaRahbebfbgbgbfbhahaRaRahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAbiahbjahahbkblblblblbmahahahahaMaAaNabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahahahahahahahahahahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaJaAaKahahahahahayahahahahahahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKaCahahahahahahahahahahahahaDaMaAaNabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahaIaIahahahahaIaIahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahaPaQahahahahaPaQahahahbnaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahaRaRahahahahaRaRahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaJaKboaIaIaIahaIaIaIaIahaIaIaIbpaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKaPbqbqaQahaPbqbqaQahaPbqbqaQaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKaRaRaRaRahaRaRaRaRahaRaRbraRaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahahahahahahahahahahahahaMaAaNabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaJaAaKahahahahahahahahahahahahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahaIaIahaIaIahaIaIahahahbsaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaEbtaCahahaPaQbdaPaQbdaPaQahahaDaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahbuahaRaRahaRaRahaRaRahahahaMaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaAaAaKahahahahahbvbwbwbxahahahahahaMaAaNabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ababababbybybybybybzbwbwbAbybybybBbyababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaAbCaAaAaAbDbwbwaMaEaAaAaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaAaAaAaBaAaKbwbwbEaAbCaAaAaAabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ababababababababaAaKbFbwaMaAababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abbGbHbHbHbHbGabaAbIbJbJbKbCabbLbMbNbObPbQabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abbRbSbTbUbSbRabababbVbVabababbWbXbYbObZcaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abbRcbbTbTbTbRabcccdcececdcfabcgchcibObZcjabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abbRbRbTbTckbRabcccdbTbTcdcfabbZclbZbZbZcmabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababcncnabababcocdbTbTcdcpabababcqcrabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abcdcscececdcdctcdcdbTbTcdcdctcdcdbTcecdcdabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abcdbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTcdcdabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abcubTbTbTbTbTbTbTbTbTbTbTbTbTbTcvbTbTcdcwabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abcdcdcdbTbTcdcdcdcdcdcdcdcdcdcdcdbTbTcdcdabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abcxcycdbTbTcdczcxcxcxcxcxcxcxcAcdbTbTcdcBabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaacccdbTbTcdcfcCcDcDcDcDcDcEcccdbTbTcdcfabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaacccdbTbTcdcfcFcGcHcIcJcKcFcccdbTbTcdcfabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaacccdbTbTcdcfcFcLcMcNcOcLcFcccdbTbTcdcfabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaacccdbTbTcdcfcFcLcPcQcRcLcFcccdbTbTcdcfabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaacccdbTbTcdcfcFcScScTcScScFcccdbTbTcdcfabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaacccdbTbTcdcUcVcWcXcYcZdacVdbcdbTbTcdcfabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaacccdbTbTbTcedcbTbTcYbTbTdccebTbTbTcdcfabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaacccdcvbTcdczddbTbTdedfbTddcAcdbTbTcdcfabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abaacccddgcdcdcfcVdhcddidjdkcVcccdcddgcdcfabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
