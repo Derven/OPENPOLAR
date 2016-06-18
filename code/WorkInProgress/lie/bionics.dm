@@ -30,6 +30,13 @@
 	add_effect(var/mob/living/carbon/human/H)
 		H.CO2_filter = 1
 
+/obj/item/bionics/flashlight
+	name = "flashlight"
+	add_effect(var/mob/living/carbon/human/H)
+		H.implants += /obj/item/device/flashlight/bionic
+
+
+
 mob/living/carbon/human
 	var
 		xray = 0

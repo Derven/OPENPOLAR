@@ -1,5 +1,13 @@
 /obj/structure/closet/secure_closet/freezer
 
+
+/obj/structure/closet/proc/light()
+	if(!opened)
+		SetLuminosity(2)
+	else
+		SetLuminosity(0)
+
+
 /obj/structure/closet/secure_closet/freezer/update_icon()
 	if(broken)
 		icon_state = icon_broken

@@ -17,7 +17,32 @@
 		return
 	Trigger(H)
 
+/obj/effect/step_trigger/pit
+	icon_state = "pit"
+	icon = 'icons/turf/ground.dmi'
 
+	Trigger(var/atom/A)
+		if(!A || !istype(A, /atom/movable))
+			return
+
+		var/atom/movable/AM = A
+		if(ismob(AM))
+			if(isliving(AM))
+				var/mob/living/L = AM
+				L.apply_damage(5, BRUTE)
+				L << "\red You have fallen into the pit"
+
+/obj/effect/step_trigger/Spike_Pit
+	Trigger(var/atom/A)
+		if(!A || !istype(A, /atom/movable))
+			return
+
+		var/atom/movable/AM = A
+		if(ismob(AM))
+			if(isliving(AM))
+				var/mob/living/L = AM
+				L.apply_damage(15, BRUTE)
+				L << "\red You have fallen into the spike pit!"
 
 /* Tosses things in a certain direction */
 

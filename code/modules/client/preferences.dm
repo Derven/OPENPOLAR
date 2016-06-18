@@ -1028,7 +1028,7 @@ datum/preferences
 							nanotrasen_relation = new_relation
 
 					if("feat_")
-						var/new_feat = input(user, "Choose your feature.", "Character Preference")  as null|anything in list("alcoholic", "contrabandist", "tractor_driver", "northern", "runner")
+						var/new_feat = input(user, "Choose your feature.", "Character Preference")  as null|anything in list("alcoholic", "contrabandist", "tractor_driver", "northern", "runner", "parkour_expert", "android", "schizophrenic", "deft", "strong")
 						if(new_feat)
 							feature = new_feat
 

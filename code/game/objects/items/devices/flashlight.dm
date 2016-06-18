@@ -13,6 +13,19 @@
 	var/on = 0
 	var/brightness_on = 4 //luminosity when on
 
+/obj/item/device/flashlight/bionic
+
+/obj/item/device/flashlight/bionic/pickup(mob/user)
+	if(!on)
+		on = 1
+		update_brightness(user)
+		return
+	else
+		on = 0
+		update_brightness(user)
+	return
+
+
 /obj/item/device/flashlight/initialize()
 	..()
 	if(on)

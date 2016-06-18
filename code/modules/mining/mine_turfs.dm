@@ -864,6 +864,8 @@ commented out in r5061, I left it because of the shroom thingies
 					M.loc.Entered(M)
 
 
+
+
 /turf/simulated/floor/plating/airless/asteroid/cave
 	icon_state = "wground1"
 	name = "cave floor"

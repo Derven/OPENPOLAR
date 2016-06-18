@@ -56,6 +56,8 @@
 			M.client.perspective = MOB_PERSPECTIVE
 
 /obj/structure/closet/proc/open()
+	if(istype(src, /obj/structure/closet/secure_closet/freezer))
+		light()
 	if(src.opened)
 		return 0
 
@@ -74,6 +76,8 @@
 	return 1
 
 /obj/structure/closet/proc/close()
+	if(istype(src, /obj/structure/closet/secure_closet/freezer))
+		light()
 	if(!src.opened)
 		return 0
 	if(!src.can_close())
